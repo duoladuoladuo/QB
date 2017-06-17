@@ -171,6 +171,11 @@ bash /etc/QuickBox/setup/quickbox-setup
 ```
 
 
+```
+git clone --recursive https://github.com/QuickBox/QuickBox /etc/QuickBox && bash /etc/QuickBox/setup/quickbox-setup
+```
+
+
 ## Want to run in development mode?
 
 **Run the following command to grab current development repos ...**
